@@ -1,8 +1,12 @@
-<p align= center>
+<h1 align= center>
   Hi there 👋
- </p>
+ </h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaMunante&layout=compact&theme=material-palenight&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>
+  <a hrfe="https://github.com/AngelaMunante">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaMunante&layout=compact&theme=material-palenight&bg_color=00000000&include_all_commits=true"/>
+  </a>
+</div>
 
 
 <!--
