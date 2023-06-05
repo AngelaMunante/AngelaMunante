@@ -4,10 +4,10 @@
 
 <div align=center>
   <a hrfe="https://github.com/AngelaMunante">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaMunante&layout=compact&theme=material-palenight&bg_color=00000000"/>
+    <img heigth="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaMunante&layout=compact&theme=material-palenight&bg_color=00000000"/>
   </a>
   <a hrfe="https://github.com/AngelaMunante">
-    <img src="https://github-readme-stats.vercel.app/api?username=AngelaMunante&show_icons=true&theme=material-palenight&bg_color=00000000&include_all_commits=true"/>
+    <img heigth="150em" src="https://github-readme-stats.vercel.app/api?username=AngelaMunante&show_icons=true&theme=material-palenight&bg_color=00000000&include_all_commits=true"/>
   </a>
 </div>
 
