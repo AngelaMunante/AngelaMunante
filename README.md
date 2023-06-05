@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaMunante&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaMunante&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AngelaMunante/AngelaMunante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
